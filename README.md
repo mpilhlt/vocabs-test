@@ -1,2 +1,2 @@
 # vocabs-test
-Sample vocabulary for infrastructure testing
+Sample vocabulary for infrastructure testing.
