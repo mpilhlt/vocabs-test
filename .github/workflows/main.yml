@@ -29,8 +29,7 @@ jobs:
       - run: mkdir public
 
       - run: mkdir data
-
-      - run: git clone https://github.com/mpilhlt/vocabs-test.git data/
+      - run: git clone https://github.com/mpilhlt/vocabs-test.git
 
       - name: make .env.production file
         run: echo "BASEURL=/vocabs-test" > .env.production
